@@ -5,4 +5,5 @@
 # https://www.habitat.sh/docs/developing-packages/#add-configuration.
 
 title = "Habitat - The fastest path from code to cloud native."
+[app]
 port = 8000
